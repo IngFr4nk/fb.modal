@@ -8,20 +8,20 @@
 
 en el html se crean los elementos que serviran para lanzar el modal:
 
-<pre>
+
     <code>
         <body>
             <p class="moda1">youtube video</p>   
             <p class="modal2">source video</p>
         <body>
     </code>
-</pre>
+
 
 **paso 2**
 
 incluir el script en la página:
 
-<pre>
+
     <code>
         <body>
             <p class="modal1">youtube video</p>   
@@ -29,14 +29,14 @@ incluir el script en la página:
             <script src="../fb-modal.min.js"></script>
         <body>
     </code>
-</pre>
+
 
 **paso 3**
 
 despues de cargar la librería se instancia la clase y se inicia el complemento, se envian las opciones para crear el modal:
 
 video YouTube:
-<pre>
+
     <code>
         <script type="text/javascript">
             const modal = new Modal({
@@ -50,10 +50,10 @@ video YouTube:
             })
         </script>
     </code>
-</pre>
+
 
 Fuente de video:
-<pre>
+
     <code>
         <script type="text/javascript">
             const video = new Modal({
@@ -65,4 +65,3 @@ Fuente de video:
             })
         </script>
     </code>
-</pre>
