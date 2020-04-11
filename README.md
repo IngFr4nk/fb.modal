@@ -1,8 +1,8 @@
-# fb-modal
+# fb-modal #
 
-### plugin para implememtar modales con video en falabella.com.co
-
-#### **Modo de uso**
+### plugin para implememtar modales con video en falabella.com.co ###
+ 
+#### **Modo de uso** ####
 
 **paso 1**
 
