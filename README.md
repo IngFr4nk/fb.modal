@@ -9,12 +9,11 @@
 En el html se crean los elementos que serviran para lanzar el modal:
 
 
-<pre>
-    <body>
-        <p class="modal1">youtube video</p>   
-        <p class="modal2">source video</p>
-    <body>
-</pre>
+<body>
+    <p class="modal1">youtube video</p>   
+    <p class="modal2">source video</p>
+<body>
+
 
 
 **paso 2**
@@ -22,13 +21,13 @@ En el html se crean los elementos que serviran para lanzar el modal:
 Incluir el script en la página:
 
 
-<pre>
-    <body>
-        <p class="modal1">youtube video</p>   
-        <p class="modal2">source video</p>
-        <script src="../fb-modal.min.js"></script>
-    <body>
-</pre>
+
+<body>
+    <p class="modal1">youtube video</p>   
+    <p class="modal2">source video</p>
+    <script src="../fb-modal.min.js"></script>
+<body>
+
 
 
 **paso 3**
@@ -65,6 +64,8 @@ Fuente de video:
         })
     </script>
 </pre>
+
+
 
 **paso 4**
 
